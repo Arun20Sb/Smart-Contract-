@@ -12,5 +12,8 @@ Use Cases 🌐:
 - Charity Drives: Perfect for organizing charity campaigns or community fundraisers.
 - Creative Ventures: Artists, musicians, and creators can use this to gather support for their projects.
 
+Demo 📽️: 
+- A screenshot of the deployed contract (on the Sepolia testnet) is provided inside :\
+
 Disclaimer ⚠️:  
 This contract is for educational purposes only. Make sure to fully test and audit it before using it in a live environment.
